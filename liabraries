@@ -1,0 +1,10 @@
+pip install pillow
+pip install opencv-contrib-python 
+pip install opencv-python
+python3 -m pip install mysql-connector-python
+
+
+# Roll Number start from 1
+# create Attendance.csv file first 
+
+
