@@ -18,3 +18,6 @@
 5. Face Detection using LBPH Algorithm
 6. Attendance Management System with CRUD Operation
 7. Chat Bot
+
+# libraries
+Refer Libraries file for import 
